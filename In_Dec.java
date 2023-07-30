@@ -10,3 +10,6 @@ class In_Dec{
 
     
 }
+
+//Output: 7
+//44
