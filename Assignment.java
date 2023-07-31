@@ -33,3 +33,12 @@ public class Assignment {
 
     
 }
+
+//OUTPUT-
+//a1 a2 a3 and a4 will get assigend the same value = 10 10 10 10
+//Value of a was 10 and then the new assigned value of a will get added is = 17
+//Value of b was 10 and then the new assigned value of b will get subtracted is = 3
+//Value of c was 10 and then the new assigned value of c will get divided is = 1
+//Value of d was 10 and then the new assigned value of d will get Multipled is = 70
+//Value of e was 10 and then the new assigned value of e will get added is = 3
+//Value of f was 10 and then the new assigned value of f will get divided is = 1.4285715 
