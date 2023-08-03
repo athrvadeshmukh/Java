@@ -19,3 +19,9 @@ public class Ternary
     }
 
 }
+
+/* OUTPUT
+    20
+    b is less
+    20
+ */
