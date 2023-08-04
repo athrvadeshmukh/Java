@@ -19,3 +19,11 @@ public class Diff_Println_And_Print
 
     }
 }
+
+/*
+System.out.println
+*
+*
+*
+System.out.print
+/*
