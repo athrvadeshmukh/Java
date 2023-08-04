@@ -20,3 +20,10 @@ public class Switch
         }
     }
 }
+
+/*  Output-:
+    select 1
+    select 2
+    select 3
+    select random number
+    Defaul */
