@@ -18,3 +18,14 @@ public class NestedLoop
 
     
 }
+
+/*
+                    OUTPUT- 
+                    Enter Integer number for loop
+                    4
+                    * * * * 
+                    * * * * 
+                    * * * * 
+                    * * * * 
+                        
+                        */
