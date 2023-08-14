@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-import javax.naming.event.NamingExceptionEvent;
 public class PatternH 
 {
     public static void main(String[] args)
