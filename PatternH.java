@@ -13,7 +13,7 @@ public class PatternH
         {
             for(int j=0; j<n; j++)
             {
-                if(j==(n-1)/2 || j==n-1 || j==0)
+                if(i==(n-1)/2 || j==n-1 || j==0)
                 {
                     System.out.print("*");
                 }
@@ -27,3 +27,15 @@ public class PatternH
 
     }
 }
+/* Enter the numbers of stars you wanted to Print : 10
+                    *        *
+                    *        *
+                    *        *
+                    *        *
+                    **********
+                    *        *
+                    *        *
+                    *        *
+                    *        *
+                    *        *
+    */
