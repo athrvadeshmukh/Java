@@ -41,3 +41,18 @@ public class PatternDA
     }
 
 }
+
+/* Enter the number of stars you want to print: 13
+******        *****       
+*     *      *     *      
+*     *      *     *      
+*     *      *     *      
+*     *      *     *      
+*     *      *     *      
+*     *      *******      
+*     *      *     *      
+*     *      *     *      
+*     *      *     *      
+*     *      *     *      
+*     *      *     *      
+******       *     *     */
