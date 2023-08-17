@@ -54,3 +54,4 @@ public class ConditionalStatement
         System.out.println("You are an senior citizen");
     }
 }
+
